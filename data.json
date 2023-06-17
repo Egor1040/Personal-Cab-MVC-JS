@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "data": "31.01.2015",
+        "time": "22:01:00",
+        "name": "Lorem dolor sit amet.",
+        "price": 10,
+        "status": 1,
+        "selected": false
+    },
+
+    {
+        "id": 2,
+        "data": "31.01.2016",
+        "time": "22:01:00",
+        "name": "Ipsum dolor sit amet.",
+        "price": 20,
+        "status": 2,
+        "selected": false
+    },
+
+    {
+        "id": 3,
+        "data": "31.01.2017",
+        "time": "22:01:00",
+        "name": "Lorem ipsum sit amet.",
+        "price": 30,
+        "status": 3,
+        "selected": false
+    },
+
+    {
+        "id": 4,
+        "data": "31.01.2018",
+        "time": "22:01:00",
+        "name": "Lorem ipsum dolor amet.",
+        "price": 40,
+        "status": 2,
+        "selected": false
+    },
+
+    {
+        "id": 5,
+        "data": "31.01.2019",
+        "time": "22:01:00",
+        "name": "Lorem ipsum dolor sit.",
+        "price": 50,
+        "status": 2,
+        "selected": false
+    }
+]
